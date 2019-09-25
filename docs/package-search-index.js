@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.juli"},{"l":"com.juli.aspects"},{"l":"com.juli.config"},{"l":"com.juli.controller"},{"l":"com.juli.entities"},{"l":"com.juli.enums"},{"l":"com.juli.exceptions"},{"l":"com.juli.repository"},{"l":"com.juli.service"}]

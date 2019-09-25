@@ -1,0 +1,9 @@
+com.juli
+com.juli.aspects
+com.juli.config
+com.juli.controller
+com.juli.entities
+com.juli.enums
+com.juli.exceptions
+com.juli.repository
+com.juli.service
